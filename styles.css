@@ -1,0 +1,11 @@
+:root {
+  --main-color: hsl(0, 0%, 8%);
+  --container-color: hsl(0, 0%, 12%);
+  --socials: hsl(0, 0%, 20%);
+  --active-color: hsl(75, 94%, 57%);
+  --text-color: hsl(0, 0%, 100%);
+}
+
+* {
+  box-sizing: border-box;
+}
